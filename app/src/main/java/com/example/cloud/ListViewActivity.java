@@ -37,8 +37,8 @@ public class ListViewActivity extends AppCompatActivity {
         data.add("liis");
         data.add("zhangsan");
         data.add("liis");
-        data.add("zhangsan");
-        data.add("liis");
+//        data.add("zhangsan");
+//        data.add("liis");
 //        //系统自带listview样例
 //        ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, data);
         //自写listview样例
